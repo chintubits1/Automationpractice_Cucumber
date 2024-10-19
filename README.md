@@ -10,3 +10,6 @@ For testing with Mozilla Firefox the `firefox` command line parameter can be use
 ```bash
 mvn test -Pfirefox
 ```
+
+
+
